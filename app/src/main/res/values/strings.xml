@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fire Alert Hazard</string>
+    <string name="aboutText">Fire Alert Hazard is developed to show the hazard that happen. It also show the
+    location of the hazard. Users can view this through this application. Admin will update about the hazards from time to time. This application is developed by team members of this group. Details of team members are shown below: </string>
+    <string name="github"><a href="https://github.com/nursafuraa/FireAlertHazard.git">https://github.com/nursafuraa/FireAlertHazard.git</a></string>
+    <string name="open_Map">Map</string>
+    <string name="open_News">News</string>
+    <string name="open_About">About Us</string>
+    <string name="titleNewsPage">News</string>
+    <string name="descriptionNewsPage">This page will display the news and information that we received from administrator. Because only administrators can enter information about fires into the system, the information and news displayed on this page are guaranteed to be authentic. </string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="tvId">Report Id :</string>
+    <string name="tvPlaceName">Place of incident :</string>
+    <string name="tvLatitude">Latitude :</string>
+    <string name="tvLongitude">Longitude :</string>
+    <string name="tvDescription">Description :</string>
+
+
+</resources>
